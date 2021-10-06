@@ -23,3 +23,4 @@
 | Nimish Bajaj         | [@Nimish200](https://github.com/Nimish2000)                  | 1                |
 | Debargha Mukherjee   | [@Deabrgha-arch](https://github.com/Debargha-arch)           | 1                |
 | Janitha Missaka      | [@Janitham97](https://github.com/Janitham97)                 | 1                |
+| Anjani Srivastava    | [@anjanikshree12](https://github.com/anjanikshree12)        | 1                |
