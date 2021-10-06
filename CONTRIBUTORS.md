@@ -24,3 +24,4 @@
 | Debargha Mukherjee   | [@Deabrgha-arch](https://github.com/Debargha-arch)           | 1                |
 | Janitha Missaka      | [@Janitham97](https://github.com/Janitham97)                 | 1                |
 | Anjani Srivastava    | [@anjanikshree12](https://github.com/anjanikshree12)        | 1                |
+| Samyak Jain          | [@samyakjain26](https://github.com/samyakjain26)        | 1                |
