@@ -20,3 +20,5 @@
 | Deshan Chathuranga   | [@Deshan-Chathuranga](https://github.com/Deshan-Chathuranga)  |         1        |
 | Prakhar Katiyar      | [@Prakhar-Katiyar](https://github.com/Prakhar-Katiyar)        |         1        |
 | Hitesh Sharma        | [@hitesh-sharma](https://github.com/hitesh181)                |         1        |
+| Garima Mahajan       | [@GarimaMahajan20](https://github.com/GarimaMahajan20)        | 1                |
+
