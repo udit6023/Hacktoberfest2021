@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FCM Example</string>
+    <string name="your_token">Your Token Will Be Display As A Toast</string>
+</resources>

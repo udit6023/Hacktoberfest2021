@@ -26,4 +26,4 @@
 | Anjani Srivastava    | [@anjanikshree12](https://github.com/anjanikshree12)         | 1                |
 | Samyak Jain          | [@samyakjain26](https://github.com/samyakjain26)             | 1                |
 | Garima Mahajan       | [@GarimaMahajan20](https://github.com/GarimaMahajan20)       | 1                |
-
+| Nguyen Khoa          | [@ntvkhoasgt](https://github.com/ntvkhoasgt)                 | 1                |
